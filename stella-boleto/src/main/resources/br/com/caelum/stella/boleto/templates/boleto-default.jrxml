@@ -608,7 +608,7 @@
 			</textField>
 			<textField isBlankWhenNull="true">
 				<reportElement style="Txt_Normal" x="101" y="486" width="75" height="14" uuid="521e7c14-d377-42dd-b770-a2ee0dad878b"/>
-				<textFieldExpression><![CDATA[$F{carteira}]]></textFieldExpression>
+				<textFieldExpression><![CDATA["RG"]]></textFieldExpression>
 			</textField>
 			<textField isBlankWhenNull="true">
 				<reportElement style="Txt_valor" mode="Opaque" x="390" y="486" width="164" height="14" backcolor="#D2D2D2" uuid="36676b16-754f-4b7f-a48e-8019c6ea21e0"/>
